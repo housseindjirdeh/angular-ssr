@@ -11,7 +11,7 @@
 - [x] Extremely fast: well written applications can be rendered on demand and served in under 100ms
 - [x] Completely solves the issue of loading a page with nothing but a loading animation inside of it
 - [x] Render your entire application on the server and return an immediately renderable document as part of the very first HTTP request, instantly
-- [x] Seamless [preboot](https://github.com/angular/preboot) integration
+- [x] Seamless [preboot](https://github.com/angular/preboot) integration!
 
 - [Advanced server-side rendering for Angular 4+ applications](#advanced-server-side-rendering-for-angular-4-applications)
 - [Introduction](#introduction)
